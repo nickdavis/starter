@@ -1,0 +1,9 @@
+[submodule "wp-content/plugins/nd-core"]
+	path = wp-content/plugins/nd-core
+	url = https://github.com/nickdavis/nd-core
+[submodule "wp-content/plugins/project-core"]
+	path = wp-content/plugins/project-core
+	url = https://github.com/nickdavis/project-core
+[submodule "wp-content/themes/nd-starter"]
+	path = wp-content/themes/nd-starter
+	url = https://github.com/nickdavis/nd-starter
