@@ -4,6 +4,9 @@
 [submodule "wp-content/plugins/project-core"]
 	path = wp-content/plugins/project-core
 	url = https://github.com/nickdavis/project-core
+[submodule "wp-content/plugins/updevtools"]
+    path = wp-content/plugins/updevtools
+    url = https://github.com/nickdavis/UpDevTools
 [submodule "wp-content/themes/nd-starter"]
 	path = wp-content/themes/nd-starter
 	url = https://github.com/nickdavis/nd-starter
