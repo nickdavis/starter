@@ -17,8 +17,8 @@ wp-content/themes/**
 # Start editing!
 
 # MU Plugins
-#!wp-content/mu-plugins/force-ssl-on-wpengine.php
-#!wp-content/mu-plugins/remove-dashboard-widgets.php
+!wp-content/mu-plugins/force-ssl-on-wpengine.php
+!wp-content/mu-plugins/remove-dashboard-widgets.php
 
 # Plugins
 !wp-content/plugins/plugin/
